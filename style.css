@@ -1,0 +1,31 @@
+body {
+color: black;
+text-align: center;
+font-family:Glyphs;
+background-color: red;
+background-image: linear-gradient(red, yellow);
+}
+
+img {
+width: 300px;
+margin: 25px;
+height: 300px;
+}
+
+a {
+  text-decoration: none;
+}
+
+.article:hover{
+  color: fuchsia;
+}
+
+
+p{
+    max-width: 450px;
+    margin: 25px;
+    font-size: 20px;
+}
+
+
+
